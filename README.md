@@ -6,4 +6,4 @@
 
 ### pandas-learn
 - Learning library for pandas
-- Current: Exploratory data analysis on DEBS Grand Challenge truncated drive data
+- Current: Exploratory data analysis on Backblaze drive data
