@@ -7,3 +7,5 @@
 ### pandas-learn
 - Learning library for pandas
 - Current: Exploratory data analysis on Backblaze drive data
+
+- Data is locally stored in data/drivedata for Backblaze drive, and in filtered-drivedata for data that I've processed
